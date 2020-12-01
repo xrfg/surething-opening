@@ -37,7 +37,7 @@ body {
 
 header {
   min-height: 100vh;
-  background-image: url(img/photo_2020-12-01_13-46-01.jpg);
+  background-image: url(photo_2020-12-01_13-46-01.jpg);
   background-repeat: no-repeat;
   background-position: top;
   background-size: cover;
@@ -111,7 +111,7 @@ header {
 .btn-container {
   width: 250px;
   height: 250px;
-  background-image: url(img/photo_2020-12-01_13-46-25.jpg);
+  background-image: url(photo_2020-12-01_13-46-25.jpg);
   background-size: contain;
   margin: 0 auto;
   border-radius: 20px;
